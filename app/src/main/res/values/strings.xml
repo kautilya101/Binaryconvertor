@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BinaryConverter</string>
+
+    <string-array name="convertor">
+        <item>Binary to Decimal</item>
+        <item>Binary to Octaldecimal</item>
+        <item>Binary to Hexadeciaml</item>
+
+        <item>Decimal to Binary</item>
+        <item>Decimal to Octal</item>
+        <item>Decimal to Hexadecimal</item>
+
+        <item>Octal to Binary</item>
+        <item>Octal to Decimal</item>
+        <item>Octal to Hexadecimal</item>
+
+        <item>Hexadecimal to Binary</item>
+        <item>Hexadecimal to Decimal</item>
+        <item>Hexadecimal to Octal</item>
+    </string-array>
+</resources>
